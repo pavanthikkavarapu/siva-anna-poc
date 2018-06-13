@@ -1,0 +1,11 @@
+{
+    "data" :[
+
+      {"id":1,"name":"reptiles"},
+      {"id":2,"name":"human"},
+      {"id":3,"name":"birds"},
+      {"id":4,"name":"species"},
+
+
+]
+}
